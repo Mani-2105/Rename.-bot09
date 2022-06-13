@@ -11,13 +11,13 @@ Send me any Telegram file and choose appropriate option!
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @kmtz_channel_v3"
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @kmtz_channel_v3**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "@kmtz_channel_v3"
 
     HELP_USER = """
 
@@ -57,10 +57,10 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Telegram1999/Rename.-bot) 
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
+○ ᴄʀᴇᴀᴛᴏʀ : [@kmtz_channel_v3](https://t.me/kmtz_channel_v3)
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/kmtz_channel_v3)**
 
 """
