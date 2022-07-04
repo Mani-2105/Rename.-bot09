@@ -11,7 +11,7 @@ Send me any Telegram file and choose appropriate option!
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @kmtz_channel_v3"
+    UPGRADE_TEXT = "CONTACT @Team_CineLens"
 
     DOWNLOAD_START = "Download Started... "
 
