@@ -17,7 +17,7 @@ Send me any Telegram file and choose appropriate option!
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @kmtz_channel_v3**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Team_CineLens**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@kmtz_channel_v3"
+    CUSTOM_CAPTION_UL_FILE = "@Team_CineLens"
 
     HELP_USER = """
 
@@ -42,7 +42,7 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @Team_CineLens</b>
 """
 
     ABOUT_TEXT = """
@@ -59,8 +59,8 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Telegram1999/Rename.-bot) 
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@kmtz_channel_v3](https://t.me/kmtz_channel_v3)
+○ ᴄʀᴇᴀᴛᴏʀ : [@Team_CineLens](https://t.me/Team_CineLens)
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/kmtz_channel_v3)**
+**[Movies Channel](https://t.me/The_CineLens)**
 
 """
